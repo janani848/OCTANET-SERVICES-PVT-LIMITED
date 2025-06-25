@@ -1,4 +1,4 @@
-# OCTANET SERVICES PVT LIMITED  
+ELEVATE LABS 
 Task 1 – Java Console Calculator
 
 This repository contains a Java-based console calculator developed as part of the internship program offered by Octanet Services Pvt Ltd in collaboration with the Ministry of MSME. The application demonstrates foundational programming concepts using Java.
